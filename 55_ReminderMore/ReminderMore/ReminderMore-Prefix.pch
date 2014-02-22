@@ -1,0 +1,13 @@
+//
+// Prefix header for all source files of the 'ReminderMore' target in the 'ReminderMore' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+    #import <EventKit/EventKit.h>
+#import <crt_externs.h>
+
+    #import "ReminderItems.h"
+    #import "AppDelegate.h"
+#endif
+

@@ -1,0 +1,415 @@
+// !$*UTF8*$!
+{
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 2B6CADC90F87271B00CA22A2 /* CocoaStudy-libcurlsample */;
+		activeTarget = 8D1107260486CEB800E47090 /* CocoaStudy-libcurlsample */;
+		addToTargets = (
+			8D1107260486CEB800E47090 /* CocoaStudy-libcurlsample */,
+		);
+		breakpoints = (
+			2B6CAE280F87312000CA22A2 /* libcurlsample.c:32 */,
+			2B6CAE420F87323C00CA22A2 /* AppDelegate.m:19 */,
+			2B6CAEF90F87392700CA22A2 /* libcurlsample.c:48 */,
+		);
+		codeSenseManager = 2B6CADD90F87272900CA22A2 /* Code sense */;
+		executables = (
+			2B6CADC90F87271B00CA22A2 /* CocoaStudy-libcurlsample */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					456,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 260860796;
+			PBXWorkspaceStateSaveDate = 260860796;
+		};
+		perUserProjectItems = {
+			2B6CAE010F87308C00CA22A2 /* PBXTextBookmark */ = 2B6CAE010F87308C00CA22A2 /* PBXTextBookmark */;
+			2B6CAE060F87308C00CA22A2 /* PBXTextBookmark */ = 2B6CAE060F87308C00CA22A2 /* PBXTextBookmark */;
+			2B6CAE070F87308C00CA22A2 /* PBXTextBookmark */ = 2B6CAE070F87308C00CA22A2 /* PBXTextBookmark */;
+			2B6CAE080F87308C00CA22A2 /* PBXTextBookmark */ = 2B6CAE080F87308C00CA22A2 /* PBXTextBookmark */;
+			2B6CAE090F87308C00CA22A2 /* PBXTextBookmark */ = 2B6CAE090F87308C00CA22A2 /* PBXTextBookmark */;
+			2B6CAE0E0F87308C00CA22A2 /* PBXTextBookmark */ = 2B6CAE0E0F87308C00CA22A2 /* PBXTextBookmark */;
+			2B6CAEDF0F8737DC00CA22A2 /* PBXTextBookmark */ = 2B6CAEDF0F8737DC00CA22A2 /* PBXTextBookmark */;
+			2B6CAEE00F8737DC00CA22A2 /* PBXTextBookmark */ = 2B6CAEE00F8737DC00CA22A2 /* PBXTextBookmark */;
+			2B6CAEE20F8737DC00CA22A2 /* PBXTextBookmark */ = 2B6CAEE20F8737DC00CA22A2 /* PBXTextBookmark */;
+			2B6CAEE40F8737DC00CA22A2 /* PBXTextBookmark */ = 2B6CAEE40F8737DC00CA22A2 /* PBXTextBookmark */;
+			2B6CAEED0F8737DC00CA22A2 /* PBXTextBookmark */ = 2B6CAEED0F8737DC00CA22A2 /* PBXTextBookmark */;
+			2B6CAEEF0F8737DC00CA22A2 /* PBXTextBookmark */ = 2B6CAEEF0F8737DC00CA22A2 /* PBXTextBookmark */;
+			2B95D6980F8C79A2005E8946 /* PBXTextBookmark */ = 2B95D6980F8C79A2005E8946 /* PBXTextBookmark */;
+			2B95D6990F8C79A2005E8946 /* PBXTextBookmark */ = 2B95D6990F8C79A2005E8946 /* PBXTextBookmark */;
+			2B95D69A0F8C79A2005E8946 /* PBXTextBookmark */ = 2B95D69A0F8C79A2005E8946 /* PBXTextBookmark */;
+			2B95D69B0F8C79A2005E8946 /* PBXTextBookmark */ = 2B95D69B0F8C79A2005E8946 /* PBXTextBookmark */;
+			2B95D6A30F8C8B22005E8946 /* PBXTextBookmark */ = 2B95D6A30F8C8B22005E8946 /* PBXTextBookmark */;
+			2BDC787B0F873E7B000A2DB0 /* PBXTextBookmark */ = 2BDC787B0F873E7B000A2DB0 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 2B6CADD80F87272900CA22A2 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	2B6CADC90F87271B00CA22A2 /* CocoaStudy-libcurlsample */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = "CocoaStudy-libcurlsample";
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+		variableFormatDictionary = {
+		};
+	};
+	2B6CADD80F87272900CA22A2 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	2B6CADD90F87272900CA22A2 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	2B6CADDB0F87279700CA22A2 /* AppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {834, 536}}";
+			sepNavSelRange = "{304, 163}";
+			sepNavVisRange = "{0, 473}";
+		};
+	};
+	2B6CADDC0F87279700CA22A2 /* AppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {834, 644}}";
+			sepNavSelRange = "{1160, 0}";
+			sepNavVisRange = "{153, 1119}";
+		};
+	};
+	2B6CADDE0F8727AF00CA22A2 /* libcurlsample.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 454}}";
+			sepNavSelRange = "{163, 21}";
+			sepNavVisRange = "{0, 583}";
+		};
+	};
+	2B6CADDF0F8727AF00CA22A2 /* libcurlsample.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {634, 1596}}";
+			sepNavSelRange = "{1035, 14}";
+			sepNavVisRange = "{430, 1173}";
+		};
+	};
+	2B6CAE010F87308C00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CocoaStudy-libcurlsample_Prefix.pch */;
+		name = "CocoaStudy-libcurlsample_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	2B6CAE060F87308C00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 32CA4F630368D1EE00C91783 /* CocoaStudy-libcurlsample_Prefix.pch */;
+		name = "CocoaStudy-libcurlsample_Prefix.pch: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 179;
+		vrLoc = 0;
+	};
+	2B6CAE070F87308C00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDB0F87279700CA22A2 /* AppDelegate.h */;
+		name = "AppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 228;
+		vrLoc = 0;
+	};
+	2B6CAE080F87308C00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDE0F8727AF00CA22A2 /* libcurlsample.h */;
+		name = "libcurlsample.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 163;
+		vrLoc = 0;
+	};
+	2B6CAE090F87308C00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDC0F87279700CA22A2 /* AppDelegate.m */;
+		name = "AppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 217;
+		vrLoc = 0;
+	};
+	2B6CAE0E0F87308C00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDF0F8727AF00CA22A2 /* libcurlsample.c */;
+		name = "libcurlsample.c: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 191;
+		vrLoc = 0;
+	};
+	2B6CAE280F87312000CA22A2 /* libcurlsample.c:32 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2B6CADDF0F8727AF00CA22A2 /* libcurlsample.c */;
+		functionName = "simpleHTTP()";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 32;
+		location = "CocoaStudy-libcurlsample";
+		modificationTime = 260520233.69947;
+		state = 1;
+	};
+	2B6CAE420F87323C00CA22A2 /* AppDelegate.m:19 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2B6CADDC0F87279700CA22A2 /* AppDelegate.m */;
+		functionName = "-Sample1_SimpleHTTP:";
+		hitCount = 0;
+		ignoreCount = 0;
+		lineNumber = 19;
+		location = "CocoaStudy-libcurlsample";
+		modificationTime = 260520233.699641;
+		state = 1;
+	};
+	2B6CAEDF0F8737DC00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDB0F87279700CA22A2 /* AppDelegate.h */;
+		name = "AppDelegate.h: 17";
+		rLen = 163;
+		rLoc = 304;
+		rType = 0;
+		vrLen = 473;
+		vrLoc = 0;
+	};
+	2B6CAEE00F8737DC00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CAEE10F8737DC00CA22A2 /* Cocoa.h */;
+		name = "Cocoa.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	2B6CAEE10F8737DC00CA22A2 /* Cocoa.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Cocoa.h;
+		path = /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h;
+		sourceTree = "<absolute>";
+	};
+	2B6CAEE20F8737DC00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CAEE30F8737DC00CA22A2 /* CoreFoundation.h */;
+		name = "CoreFoundation.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 774;
+		vrLoc = 0;
+	};
+	2B6CAEE30F8737DC00CA22A2 /* CoreFoundation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = CoreFoundation.h;
+		path = /Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/CoreFoundation.framework/Versions/A/Headers/CoreFoundation.h;
+		sourceTree = "<absolute>";
+	};
+	2B6CAEE40F8737DC00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CAEE50F8737DC00CA22A2 /* Foundation.h */;
+		name = "Foundation.h: 6";
+		rLen = 43;
+		rLoc = 79;
+		rType = 0;
+		vrLen = 1233;
+		vrLoc = 0;
+	};
+	2B6CAEE50F8737DC00CA22A2 /* Foundation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Foundation.h;
+		path = /System/Library/Frameworks/Foundation.framework/Headers/Foundation.h;
+		sourceTree = "<absolute>";
+	};
+	2B6CAEED0F8737DC00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CAEEE0F8737DC00CA22A2 /* Cocoa.h */;
+		name = "Cocoa.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 485;
+		vrLoc = 0;
+	};
+	2B6CAEEE0F8737DC00CA22A2 /* Cocoa.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Cocoa.h;
+		path = /System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h;
+		sourceTree = "<absolute>";
+	};
+	2B6CAEEF0F8737DC00CA22A2 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CAEF00F8737DC00CA22A2 /* Foundation.h */;
+		name = "Foundation.h: 6";
+		rLen = 43;
+		rLoc = 79;
+		rType = 0;
+		vrLen = 1233;
+		vrLoc = 0;
+	};
+	2B6CAEF00F8737DC00CA22A2 /* Foundation.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = Foundation.h;
+		path = /System/Library/Frameworks/Foundation.framework/Headers/Foundation.h;
+		sourceTree = "<absolute>";
+	};
+	2B6CAEF90F87392700CA22A2 /* libcurlsample.c:48 */ = {
+		isa = PBXFileBreakpoint;
+		actions = (
+		);
+		breakpointStyle = 0;
+		continueAfterActions = 0;
+		countType = 0;
+		delayBeforeContinue = 0;
+		fileReference = 2B6CADDF0F8727AF00CA22A2 /* libcurlsample.c */;
+		functionName = "httpPost()";
+		hitCount = 3;
+		ignoreCount = 0;
+		lineNumber = 48;
+		location = "CocoaStudy-libcurlsample";
+		modificationTime = 260520331.759007;
+		state = 1;
+	};
+	2B95D6980F8C79A2005E8946 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDE0F8727AF00CA22A2 /* libcurlsample.h */;
+		name = "libcurlsample.h: 10";
+		rLen = 21;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 0;
+	};
+	2B95D6990F8C79A2005E8946 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDF0F8727AF00CA22A2 /* libcurlsample.c */;
+		name = "libcurlsample.c: 108";
+		rLen = 0;
+		rLoc = 3636;
+		rType = 0;
+		vrLen = 957;
+		vrLoc = 0;
+	};
+	2B95D69A0F8C79A2005E8946 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDF0F8727AF00CA22A2 /* libcurlsample.c */;
+		name = "libcurlsample.c: 108";
+		rLen = 0;
+		rLoc = 3636;
+		rType = 0;
+		vrLen = 957;
+		vrLoc = 0;
+	};
+	2B95D69B0F8C79A2005E8946 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDE0F8727AF00CA22A2 /* libcurlsample.h */;
+		name = "libcurlsample.h: 10";
+		rLen = 21;
+		rLoc = 163;
+		rType = 0;
+		vrLen = 583;
+		vrLoc = 0;
+	};
+	2B95D6A30F8C8B22005E8946 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDF0F8727AF00CA22A2 /* libcurlsample.c */;
+		name = "libcurlsample.c: 37";
+		rLen = 14;
+		rLoc = 1035;
+		rType = 0;
+		vrLen = 1173;
+		vrLoc = 430;
+	};
+	2BDC787B0F873E7B000A2DB0 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2B6CADDC0F87279700CA22A2 /* AppDelegate.m */;
+		name = "AppDelegate.m: 40";
+		rLen = 0;
+		rLoc = 1160;
+		rType = 0;
+		vrLen = 1119;
+		vrLoc = 153;
+	};
+	32CA4F630368D1EE00C91783 /* CocoaStudy-libcurlsample_Prefix.pch */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {834, 559}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 179}";
+		};
+	};
+	8D1107260486CEB800E47090 /* CocoaStudy-libcurlsample */ = {
+		activeExec = 0;
+		executables = (
+			2B6CADC90F87271B00CA22A2 /* CocoaStudy-libcurlsample */,
+		);
+	};
+}

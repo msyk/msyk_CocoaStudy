@@ -1,0 +1,14 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {testRun = id; }; 
+            CLASS = DBAccess; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {dataSource = id; listTable = id; }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {CLASS = DBDataSource; LANGUAGE = ObjC; SUPERCLASS = NSObject; }, 
+        {CLASS = FirstResponder; LANGUAGE = ObjC; SUPERCLASS = NSObject; }
+    ); 
+    IBVersion = 1; 
+}

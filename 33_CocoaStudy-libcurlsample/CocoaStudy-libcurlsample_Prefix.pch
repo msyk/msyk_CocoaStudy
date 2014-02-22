@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'CocoaStudy-libcurlsample' target in the 'CocoaStudy-libcurlsample' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif

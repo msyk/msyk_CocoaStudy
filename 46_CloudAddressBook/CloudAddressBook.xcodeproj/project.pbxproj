@@ -1,0 +1,529 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		8B20625A1373C1480002036E /* AddressDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B2062581373C1480002036E /* AddressDetailViewController.m */; };
+		8B20625B1373C1480002036E /* AddressDetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B2062591373C1480002036E /* AddressDetailViewController.xib */; };
+		8B69DD3A13727FF800208C34 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B69DD3913727FF800208C34 /* UIKit.framework */; };
+		8B69DD3C13727FF800208C34 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B69DD3B13727FF800208C34 /* Foundation.framework */; };
+		8B69DD3E13727FF800208C34 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B69DD3D13727FF800208C34 /* CoreGraphics.framework */; };
+		8B69DD4413727FF800208C34 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8B69DD4213727FF800208C34 /* InfoPlist.strings */; };
+		8B69DD4713727FF800208C34 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B69DD4613727FF800208C34 /* main.m */; };
+		8B69DD4A13727FF800208C34 /* CloudAddressBookAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B69DD4913727FF800208C34 /* CloudAddressBookAppDelegate.m */; };
+		8B69DD4E13727FF800208C34 /* CloudAddressBookAppDelegate_iPhone.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B69DD4D13727FF800208C34 /* CloudAddressBookAppDelegate_iPhone.m */; };
+		8B69DD5113727FF800208C34 /* MainWindow_iPhone.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B69DD4F13727FF800208C34 /* MainWindow_iPhone.xib */; };
+		8B69DD5513727FF800208C34 /* CloudAddressBookAppDelegate_iPad.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B69DD5413727FF800208C34 /* CloudAddressBookAppDelegate_iPad.m */; };
+		8B69DD5813727FF800208C34 /* MainWindow_iPad.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B69DD5613727FF800208C34 /* MainWindow_iPad.xib */; };
+		8B69DD5F13727FF800208C34 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B69DD3913727FF800208C34 /* UIKit.framework */; };
+		8B69DD6013727FF800208C34 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B69DD3B13727FF800208C34 /* Foundation.framework */; };
+		8B69DD6113727FF800208C34 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 8B69DD3D13727FF800208C34 /* CoreGraphics.framework */; };
+		8B69DD6913727FF800208C34 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8B69DD6713727FF800208C34 /* InfoPlist.strings */; };
+		8B69DD6C13727FF800208C34 /* CloudAddressBookTests.h in Resources */ = {isa = PBXBuildFile; fileRef = 8B69DD6B13727FF800208C34 /* CloudAddressBookTests.h */; };
+		8B69DD6E13727FF900208C34 /* CloudAddressBookTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B69DD6D13727FF800208C34 /* CloudAddressBookTests.m */; };
+		8B69DD791372805000208C34 /* CloudCommincation.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B69DD781372805000208C34 /* CloudCommincation.m */; };
+		8B71B91B1373D352004A3E80 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = 8B71B91D1373D352004A3E80 /* Localizable.strings */; };
+		8B805D0A1373B4D900620444 /* AddressListViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8B805D081373B4D900620444 /* AddressListViewController.m */; };
+		8B805D0B1373B4D900620444 /* AddressListViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8B805D091373B4D900620444 /* AddressListViewController.xib */; };
+		8BBA6EA5137560F300CA20F6 /* AddressDetailiPadViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 8BBA6EA4137560F200CA20F6 /* AddressDetailiPadViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		8B69DD6213727FF800208C34 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 8B69DD2C13727FF700208C34 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 8B69DD3413727FF700208C34;
+			remoteInfo = CloudAddressBook;
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		8B2062571373C1480002036E /* AddressDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressDetailViewController.h; sourceTree = "<group>"; };
+		8B2062581373C1480002036E /* AddressDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressDetailViewController.m; sourceTree = "<group>"; };
+		8B2062591373C1480002036E /* AddressDetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddressDetailViewController.xib; sourceTree = "<group>"; };
+		8B69DD3513727FF700208C34 /* CloudAddressBook.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CloudAddressBook.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B69DD3913727FF800208C34 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		8B69DD3B13727FF800208C34 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		8B69DD3D13727FF800208C34 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		8B69DD4113727FF800208C34 /* CloudAddressBook-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CloudAddressBook-Info.plist"; sourceTree = "<group>"; };
+		8B69DD4313727FF800208C34 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8B69DD4513727FF800208C34 /* CloudAddressBook-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CloudAddressBook-Prefix.pch"; sourceTree = "<group>"; };
+		8B69DD4613727FF800208C34 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		8B69DD4813727FF800208C34 /* CloudAddressBookAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CloudAddressBookAppDelegate.h; sourceTree = "<group>"; };
+		8B69DD4913727FF800208C34 /* CloudAddressBookAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CloudAddressBookAppDelegate.m; sourceTree = "<group>"; };
+		8B69DD4C13727FF800208C34 /* CloudAddressBookAppDelegate_iPhone.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CloudAddressBookAppDelegate_iPhone.h; path = iPhone/CloudAddressBookAppDelegate_iPhone.h; sourceTree = "<group>"; };
+		8B69DD4D13727FF800208C34 /* CloudAddressBookAppDelegate_iPhone.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CloudAddressBookAppDelegate_iPhone.m; path = iPhone/CloudAddressBookAppDelegate_iPhone.m; sourceTree = "<group>"; };
+		8B69DD5013727FF800208C34 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = iPhone/en.lproj/MainWindow_iPhone.xib; sourceTree = "<group>"; };
+		8B69DD5313727FF800208C34 /* CloudAddressBookAppDelegate_iPad.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = CloudAddressBookAppDelegate_iPad.h; path = iPad/CloudAddressBookAppDelegate_iPad.h; sourceTree = "<group>"; };
+		8B69DD5413727FF800208C34 /* CloudAddressBookAppDelegate_iPad.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; name = CloudAddressBookAppDelegate_iPad.m; path = iPad/CloudAddressBookAppDelegate_iPad.m; sourceTree = "<group>"; };
+		8B69DD5713727FF800208C34 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = iPad/en.lproj/MainWindow_iPad.xib; sourceTree = "<group>"; };
+		8B69DD5E13727FF800208C34 /* CloudAddressBookTests.octest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CloudAddressBookTests.octest; sourceTree = BUILT_PRODUCTS_DIR; };
+		8B69DD6613727FF800208C34 /* CloudAddressBookTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "CloudAddressBookTests-Info.plist"; sourceTree = "<group>"; };
+		8B69DD6813727FF800208C34 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		8B69DD6A13727FF800208C34 /* CloudAddressBookTests-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CloudAddressBookTests-Prefix.pch"; sourceTree = "<group>"; };
+		8B69DD6B13727FF800208C34 /* CloudAddressBookTests.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = CloudAddressBookTests.h; sourceTree = "<group>"; };
+		8B69DD6D13727FF800208C34 /* CloudAddressBookTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CloudAddressBookTests.m; sourceTree = "<group>"; };
+		8B69DD771372805000208C34 /* CloudCommincation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CloudCommincation.h; sourceTree = "<group>"; };
+		8B69DD781372805000208C34 /* CloudCommincation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CloudCommincation.m; sourceTree = "<group>"; };
+		8B71B91C1373D352004A3E80 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8B71B91E1373D397004A3E80 /* ja */ = {isa = PBXFileReference; fileEncoding = 10; lastKnownFileType = text.plist.strings; name = ja; path = ja.lproj/Localizable.strings; sourceTree = "<group>"; };
+		8B805D071373B4D900620444 /* AddressListViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AddressListViewController.h; sourceTree = "<group>"; };
+		8B805D081373B4D900620444 /* AddressListViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AddressListViewController.m; sourceTree = "<group>"; };
+		8B805D091373B4D900620444 /* AddressListViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddressListViewController.xib; sourceTree = "<group>"; };
+		8BBA6EA4137560F200CA20F6 /* AddressDetailiPadViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = AddressDetailiPadViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		8B69DD3213727FF700208C34 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B69DD3A13727FF800208C34 /* UIKit.framework in Frameworks */,
+				8B69DD3C13727FF800208C34 /* Foundation.framework in Frameworks */,
+				8B69DD3E13727FF800208C34 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B69DD5A13727FF800208C34 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B69DD5F13727FF800208C34 /* UIKit.framework in Frameworks */,
+				8B69DD6013727FF800208C34 /* Foundation.framework in Frameworks */,
+				8B69DD6113727FF800208C34 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		8B69DD2A13727FF700208C34 = {
+			isa = PBXGroup;
+			children = (
+				8B69DD3F13727FF800208C34 /* CloudAddressBook */,
+				8B69DD6413727FF800208C34 /* CloudAddressBookTests */,
+				8B69DD3813727FF800208C34 /* Frameworks */,
+				8B69DD3613727FF700208C34 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		8B69DD3613727FF700208C34 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD3513727FF700208C34 /* CloudAddressBook.app */,
+				8B69DD5E13727FF800208C34 /* CloudAddressBookTests.octest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		8B69DD3813727FF800208C34 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD3913727FF800208C34 /* UIKit.framework */,
+				8B69DD3B13727FF800208C34 /* Foundation.framework */,
+				8B69DD3D13727FF800208C34 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		8B69DD3F13727FF800208C34 /* CloudAddressBook */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD4813727FF800208C34 /* CloudAddressBookAppDelegate.h */,
+				8B69DD4913727FF800208C34 /* CloudAddressBookAppDelegate.m */,
+				8B69DD771372805000208C34 /* CloudCommincation.h */,
+				8B69DD781372805000208C34 /* CloudCommincation.m */,
+				8B69DD4B13727FF800208C34 /* iPhone */,
+				8B69DD5213727FF800208C34 /* iPad */,
+				8B69DD4013727FF800208C34 /* Supporting Files */,
+				8B805D071373B4D900620444 /* AddressListViewController.h */,
+				8B805D081373B4D900620444 /* AddressListViewController.m */,
+				8B805D091373B4D900620444 /* AddressListViewController.xib */,
+				8B2062571373C1480002036E /* AddressDetailViewController.h */,
+				8B2062581373C1480002036E /* AddressDetailViewController.m */,
+				8B2062591373C1480002036E /* AddressDetailViewController.xib */,
+				8BBA6EA4137560F200CA20F6 /* AddressDetailiPadViewController.xib */,
+				8B71B91D1373D352004A3E80 /* Localizable.strings */,
+			);
+			path = CloudAddressBook;
+			sourceTree = "<group>";
+		};
+		8B69DD4013727FF800208C34 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD4113727FF800208C34 /* CloudAddressBook-Info.plist */,
+				8B69DD4213727FF800208C34 /* InfoPlist.strings */,
+				8B69DD4513727FF800208C34 /* CloudAddressBook-Prefix.pch */,
+				8B69DD4613727FF800208C34 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8B69DD4B13727FF800208C34 /* iPhone */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD4C13727FF800208C34 /* CloudAddressBookAppDelegate_iPhone.h */,
+				8B69DD4D13727FF800208C34 /* CloudAddressBookAppDelegate_iPhone.m */,
+				8B69DD4F13727FF800208C34 /* MainWindow_iPhone.xib */,
+			);
+			name = iPhone;
+			sourceTree = "<group>";
+		};
+		8B69DD5213727FF800208C34 /* iPad */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD5313727FF800208C34 /* CloudAddressBookAppDelegate_iPad.h */,
+				8B69DD5413727FF800208C34 /* CloudAddressBookAppDelegate_iPad.m */,
+				8B69DD5613727FF800208C34 /* MainWindow_iPad.xib */,
+			);
+			name = iPad;
+			sourceTree = "<group>";
+		};
+		8B69DD6413727FF800208C34 /* CloudAddressBookTests */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD6B13727FF800208C34 /* CloudAddressBookTests.h */,
+				8B69DD6D13727FF800208C34 /* CloudAddressBookTests.m */,
+				8B69DD6513727FF800208C34 /* Supporting Files */,
+			);
+			path = CloudAddressBookTests;
+			sourceTree = "<group>";
+		};
+		8B69DD6513727FF800208C34 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				8B69DD6613727FF800208C34 /* CloudAddressBookTests-Info.plist */,
+				8B69DD6713727FF800208C34 /* InfoPlist.strings */,
+				8B69DD6A13727FF800208C34 /* CloudAddressBookTests-Prefix.pch */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		8B69DD3413727FF700208C34 /* CloudAddressBook */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B69DD7113727FF900208C34 /* Build configuration list for PBXNativeTarget "CloudAddressBook" */;
+			buildPhases = (
+				8B69DD3113727FF700208C34 /* Sources */,
+				8B69DD3213727FF700208C34 /* Frameworks */,
+				8B69DD3313727FF700208C34 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = CloudAddressBook;
+			productName = CloudAddressBook;
+			productReference = 8B69DD3513727FF700208C34 /* CloudAddressBook.app */;
+			productType = "com.apple.product-type.application";
+		};
+		8B69DD5D13727FF800208C34 /* CloudAddressBookTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 8B69DD7413727FF900208C34 /* Build configuration list for PBXNativeTarget "CloudAddressBookTests" */;
+			buildPhases = (
+				8B69DD5913727FF800208C34 /* Sources */,
+				8B69DD5A13727FF800208C34 /* Frameworks */,
+				8B69DD5B13727FF800208C34 /* Resources */,
+				8B69DD5C13727FF800208C34 /* ShellScript */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				8B69DD6313727FF800208C34 /* PBXTargetDependency */,
+			);
+			name = CloudAddressBookTests;
+			productName = CloudAddressBookTests;
+			productReference = 8B69DD5E13727FF800208C34 /* CloudAddressBookTests.octest */;
+			productType = "com.apple.product-type.bundle";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		8B69DD2C13727FF700208C34 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 8B69DD2F13727FF700208C34 /* Build configuration list for PBXProject "CloudAddressBook" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				ja,
+			);
+			mainGroup = 8B69DD2A13727FF700208C34;
+			productRefGroup = 8B69DD3613727FF700208C34 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				8B69DD3413727FF700208C34 /* CloudAddressBook */,
+				8B69DD5D13727FF800208C34 /* CloudAddressBookTests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		8B69DD3313727FF700208C34 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B69DD4413727FF800208C34 /* InfoPlist.strings in Resources */,
+				8B69DD5113727FF800208C34 /* MainWindow_iPhone.xib in Resources */,
+				8B69DD5813727FF800208C34 /* MainWindow_iPad.xib in Resources */,
+				8B805D0B1373B4D900620444 /* AddressListViewController.xib in Resources */,
+				8B20625B1373C1480002036E /* AddressDetailViewController.xib in Resources */,
+				8B71B91B1373D352004A3E80 /* Localizable.strings in Resources */,
+				8BBA6EA5137560F300CA20F6 /* AddressDetailiPadViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B69DD5B13727FF800208C34 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B69DD6913727FF800208C34 /* InfoPlist.strings in Resources */,
+				8B69DD6C13727FF800208C34 /* CloudAddressBookTests.h in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		8B69DD5C13727FF800208C34 /* ShellScript */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "# Run the unit tests in this test bundle.\n\"${SYSTEM_DEVELOPER_DIR}/Tools/RunUnitTests\"\n";
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		8B69DD3113727FF700208C34 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B69DD4713727FF800208C34 /* main.m in Sources */,
+				8B69DD4A13727FF800208C34 /* CloudAddressBookAppDelegate.m in Sources */,
+				8B69DD4E13727FF800208C34 /* CloudAddressBookAppDelegate_iPhone.m in Sources */,
+				8B69DD5513727FF800208C34 /* CloudAddressBookAppDelegate_iPad.m in Sources */,
+				8B69DD791372805000208C34 /* CloudCommincation.m in Sources */,
+				8B805D0A1373B4D900620444 /* AddressListViewController.m in Sources */,
+				8B20625A1373C1480002036E /* AddressDetailViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		8B69DD5913727FF800208C34 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				8B69DD6E13727FF900208C34 /* CloudAddressBookTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		8B69DD6313727FF800208C34 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 8B69DD3413727FF700208C34 /* CloudAddressBook */;
+			targetProxy = 8B69DD6213727FF800208C34 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		8B69DD4213727FF800208C34 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B69DD4313727FF800208C34 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8B69DD4F13727FF800208C34 /* MainWindow_iPhone.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B69DD5013727FF800208C34 /* en */,
+			);
+			name = MainWindow_iPhone.xib;
+			sourceTree = "<group>";
+		};
+		8B69DD5613727FF800208C34 /* MainWindow_iPad.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B69DD5713727FF800208C34 /* en */,
+			);
+			name = MainWindow_iPad.xib;
+			sourceTree = "<group>";
+		};
+		8B69DD6713727FF800208C34 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B69DD6813727FF800208C34 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		8B71B91D1373D352004A3E80 /* Localizable.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				8B71B91C1373D352004A3E80 /* en */,
+				8B71B91E1373D397004A3E80 /* ja */,
+			);
+			name = Localizable.strings;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		8B69DD6F13727FF900208C34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		8B69DD7013727FF900208C34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		8B69DD7213727FF900208C34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CloudAddressBook/CloudAddressBook-Prefix.pch";
+				INFOPLIST_FILE = "CloudAddressBook/CloudAddressBook-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		8B69DD7313727FF900208C34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CloudAddressBook/CloudAddressBook-Prefix.pch";
+				INFOPLIST_FILE = "CloudAddressBook/CloudAddressBook-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+		8B69DD7513727FF900208C34 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CloudAddressBook.app/CloudAddressBook";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CloudAddressBookTests/CloudAddressBookTests-Prefix.pch";
+				INFOPLIST_FILE = "CloudAddressBookTests/CloudAddressBookTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Debug;
+		};
+		8B69DD7613727FF900208C34 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/CloudAddressBook.app/CloudAddressBook";
+				FRAMEWORK_SEARCH_PATHS = (
+					"$(SDKROOT)/Developer/Library/Frameworks",
+					"$(DEVELOPER_LIBRARY_DIR)/Frameworks",
+				);
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "CloudAddressBookTests/CloudAddressBookTests-Prefix.pch";
+				INFOPLIST_FILE = "CloudAddressBookTests/CloudAddressBookTests-Info.plist";
+				OTHER_LDFLAGS = (
+					"-framework",
+					SenTestingKit,
+				);
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				TEST_HOST = "$(BUNDLE_LOADER)";
+				WRAPPER_EXTENSION = octest;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		8B69DD2F13727FF700208C34 /* Build configuration list for PBXProject "CloudAddressBook" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B69DD6F13727FF900208C34 /* Debug */,
+				8B69DD7013727FF900208C34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B69DD7113727FF900208C34 /* Build configuration list for PBXNativeTarget "CloudAddressBook" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B69DD7213727FF900208C34 /* Debug */,
+				8B69DD7313727FF900208C34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		8B69DD7413727FF900208C34 /* Build configuration list for PBXNativeTarget "CloudAddressBookTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				8B69DD7513727FF900208C34 /* Debug */,
+				8B69DD7613727FF900208C34 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 8B69DD2C13727FF700208C34 /* Project object */;
+}

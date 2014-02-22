@@ -1,0 +1,1 @@
+**** UTF-8 encoded ****このプロジェクトは、以下のCocoa勉強会での発表時に、サンプルあるいはデモ用として作成したものです。名称が意図する動作を保証するものではありません。また、システムのバージョンによっては動かない場合もありますし、Xcodeのバージョンによっては問題が発生する場合もありますが、その点を考慮してご利用ください。iOS.Developer勉強会.Urawa #4開催日：2011/6/22発表タイル：NSURLConnectionのデリゲートメソッドと認証＊iOS.Developer勉強会.Urawaは、Cocoa勉強会のスピンオフです。新居雅行　Masayuki Nii　http://msyk.net/profile.html

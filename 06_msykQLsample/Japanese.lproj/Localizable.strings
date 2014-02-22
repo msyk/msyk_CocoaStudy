@@ -1,0 +1,11 @@
+"SQL1" = "INSERT INTO TEST1(str1,str2) VALUES( '表示', 'aaa strings' );";
+"SQL2" = "INSERT INTO TEST1(str1,str2) VALUES( '日本語', 'aaa strings' );";
+"SQL3" = "INSERT INTO TEST1(str1,str2) VALUES( '東京特許許可局', 'aaa strings' );";
+"SQL4" = "INSERT INTO TEST1(str1,str2) VALUES( '髙島屋', 'aaa strings' );";
+"SQL5" = "INSERT INTO TEST1(str1,str2) VALUES( '美しい日本語', 'aaa strings' );";
+"SQL6" = "INSERT INTO TEST1(str1,str2) VALUES( '日本語', 'aaa strings' );";
+"SQL7" = "INSERT INTO TEST1(str1,str2) VALUES( '日本語', 'aaa strings' );";
+"SQL8" = "INSERT INTO TEST1(str1,str2) VALUES( '日本語', 'aaa strings' );";
+"SQL9" = "INSERT INTO TEST1(str1,str2) VALUES( '日本語', 'aaa strings' );";
+"SQL10" = "INSERT INTO TEST1(str1,str2) VALUES( '日本語', 'aaa strings' );";
+"SQL11" = "INSERT INTO TEST1(str1,str2) VALUES( '日本語', 'aaa strings' );";

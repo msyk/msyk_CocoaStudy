@@ -1,0 +1,2 @@
+"SQL1" = "INSERT INTO TEST1( NULL, 'a strings', 'aaa strings' );";
+"SQL2" = "INSERT INTO TEST1( NULL, 'a strings', 'aaa strings' );";
