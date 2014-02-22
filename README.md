@@ -1,4 +1,10 @@
 msyk_CocoaStudy
 ===============
 
-Sample projects of my presentations on the Cocoa Study Meeting.
+このレポジトリは、新居雅行がCocoa勉強会で発表したときに配布したサンプルプロジェクトをまとめたものです。発表から時間が経過していれば、内容は変わってしまっている可能性もあります。また、プロジェクトが開けない可能性もありますが、ご容赦ください。
+
+新居雅行
+info@msyk.net
+
+Cocoa勉強会
+http://www.cocoa-study.com/
