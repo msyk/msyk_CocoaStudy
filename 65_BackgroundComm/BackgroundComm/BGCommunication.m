@@ -113,8 +113,8 @@
         = [NSURLSessionConfiguration backgroundSessionConfiguration: @"mytask"];
         
         self.session = [NSURLSession sessionWithConfiguration: config
-                                                              delegate: self
-                                                         delegateQueue: nil];
+                                                     delegate: self
+                                                delegateQueue: nil];
         NSURLSessionDownloadTask *task = [self.session downloadTaskWithRequest: request];
         [task resume];
     }
@@ -256,7 +256,7 @@ totalBytesExpectedToWrite:(int64_t)totalBytesExpectedToWrite
     //    NSLog( @"%s %8lld %8lld %8lld", __FUNCTION__, bytesWritten, totalBytesWritten, totalBytesExpectedToWrite );
 #endif
     float rate = (float)totalBytesWritten / (float)totalBytesExpectedToWrite;
-
+    
     NSLog(@"Dowloading %d %%", (int)(rate * 100));
     
     [[NSOperationQueue mainQueue] addOperationWithBlock: ^{
